@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1684344221 source:c:\users\siwar\desktop\parking\abonnement.cpp
+	"abonnement.h"
+
+1684344161 c:\users\siwar\desktop\parking\abonnement.h
+	"carte.h"
+
+1684345462 c:\users\siwar\desktop\parking\carte.h
+	<iostream>
+	<string>
+
+1684344145 source:c:\users\siwar\desktop\parking\carte.cpp
+	"carte.h"
+
+1684345532 source:c:\users\siwar\desktop\parking\main.cpp
+	<iostream>
+	"abonnement.h"
+	"carte.h"
+	"application.h"
+	"parking.h"
+
+1684345435 source:c:\users\siwar\desktop\parking\parking.cpp
+	"parking.h"
+
+1684345496 c:\users\siwar\desktop\parking\parking.h
+	<list>
+	<iostream>
+	"carte.h"
+
+1684345480 source:c:\users\siwar\desktop\parking\application.cpp
+	"application.h"
+
+1684345357 c:\users\siwar\desktop\parking\application.h
+	"abonnement.h"
+	"parking.h"
+	<typeinfo>
+
